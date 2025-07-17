@@ -26,7 +26,7 @@ Before running the project, make sure you have the following prerequisites insta
 
 1. Clone this repository to your local machine:
 
-   ```shell
+https://github.com/Jiyanenm/MyDogAPI_TestAutomation_Framework
    
 
 2. Open the project in your preferred IDE.
